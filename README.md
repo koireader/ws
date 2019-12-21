@@ -53,7 +53,7 @@ can use one of the many wrappers available on npm, like
 ## Installing
 
 ```
-npm install ws
+npm install https://github.com/koireader/ws.git
 ```
 
 ### Opt-in for performance and spec compliance
